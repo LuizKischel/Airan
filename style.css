@@ -1,0 +1,8 @@
+body {
+   background-image: url('./img/fundo2.jpg');
+}
+
+#caixa {
+   text-align: center;
+   margin-top: 8%;
+}
